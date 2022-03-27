@@ -1,6 +1,5 @@
 // Author: Noor Eyad Eissa
-// ID: 20210499
-// Faculty of Computers and Artificial Intelligence, Cairo University, Programming-1
+// Faculty of Computers and Artificial Intelligence, Cairo University, Structured Programming
 
 
 #include <iostream>
